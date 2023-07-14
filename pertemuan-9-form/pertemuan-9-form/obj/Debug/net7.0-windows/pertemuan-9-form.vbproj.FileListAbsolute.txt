@@ -1,0 +1,17 @@
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\bin\Debug\net7.0-windows\pertemuan-9-form.exe
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\bin\Debug\net7.0-windows\pertemuan-9-form.deps.json
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\bin\Debug\net7.0-windows\pertemuan-9-form.runtimeconfig.json
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\bin\Debug\net7.0-windows\pertemuan-9-form.dll
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\bin\Debug\net7.0-windows\pertemuan-9-form.pdb
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.vbproj.AssemblyReference.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan_9_form.Form1.resources
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.vbproj.GenerateResource.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.AssemblyInfoInputs.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.AssemblyInfo.vb
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.vbproj.CoreCompileInputs.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.dll
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\refint\pertemuan-9-form.dll
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.pdb
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\pertemuan-9-form.genruntimeconfig.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9-form\pertemuan-9-form\obj\Debug\net7.0-windows\ref\pertemuan-9-form.dll

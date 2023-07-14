@@ -1,0 +1,15 @@
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\bin\Debug\net7.0\pertemuan-9.exe
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\bin\Debug\net7.0\pertemuan-9.deps.json
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\bin\Debug\net7.0\pertemuan-9.runtimeconfig.json
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\bin\Debug\net7.0\pertemuan-9.dll
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\bin\Debug\net7.0\pertemuan-9.pdb
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.vbproj.AssemblyReference.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.AssemblyInfoInputs.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.AssemblyInfo.vb
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.vbproj.CoreCompileInputs.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.dll
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\refint\pertemuan-9.dll
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.pdb
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\pertemuan-9.genruntimeconfig.cache
+D:\KULIAH\MATKUL\SEMESTER 2\Struktur Data & Algoritma\pertemuan-9\pertemuan-9\obj\Debug\net7.0\ref\pertemuan-9.dll
